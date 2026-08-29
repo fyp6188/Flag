@@ -1,8 +1,8 @@
 {
-  "Unlock": false,
+  "Unlock": true,
   "PKM Ads": true,
   "CMS Ads": true,
-  "notice": "New unlock Activated - Full detail => ",
+  "notice": "unlocked Due to improper process - Full detail => ",
   "noticeDurationSeconds": 5,
   "noticePopup": {
     "title": "Aap Ki Support Bohot Zaroori Hai",
