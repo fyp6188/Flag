@@ -3,7 +3,7 @@
   "PKM Ads": true,
   "CMS Ads": true,
   "notice": "",
-  "noticeDurationSeconds": 6,
+  "noticeDurationSeconds": 5,
   "noticePopup": "",
-  "guideVideosVersion": "2026-15-11"
+  "guideVideosVersion": "2026-15-15"
 }
