@@ -1,9 +1,10 @@
 {
-  "catalogVersion": "2026.03.26.1",
+  "catalogVersion": "2026.03.26.2",
   "items": [
     {
       "id": "2026-09-28-01-24-03",
       "title": "2026-09-28 01-24-03",
+      "description": "PowerFIR tutorial walkthrough recording.",
       "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v1/2026-09-28-01-24-03.mp4",
       "flags": {
         "visible": true,
@@ -14,6 +15,7 @@
     {
       "id": "virus-issue",
       "title": "Virus Issue",
+      "description": "Windows Defender / virus false-positive handling with PowerFIR.",
       "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v1/virus-issue.mp4",
       "flags": {
         "visible": true,
