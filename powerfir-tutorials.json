@@ -1,5 +1,5 @@
 {
-  "catalogVersion": "2026.03.26.2",
+  "catalogVersion": "2026.11.26.1",
   "items": [
     {
       "id": "2026-09-28-01-24-03",
@@ -17,6 +17,72 @@
       "title": "Virus Issue",
       "description": "Windows Defender / virus false-positive handling with PowerFIR.",
       "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v1/virus-issue.mp4",
+      "flags": {
+        "visible": true,
+        "archived": false,
+        "deleted": false
+      }
+    },
+    {
+      "id": "qmatic-guide",
+      "title": "Qmatic Guide",
+      "description": "Qmatic guide walkthrough.",
+      "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v2/Qmatic-Guide.mp4",
+      "flags": {
+        "visible": true,
+        "archived": false,
+        "deleted": false
+      }
+    },
+    {
+      "id": "polcom-guide",
+      "title": "Polcom Guide",
+      "description": "POLCOM guide walkthrough.",
+      "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v2/Polcom-Guide.mp4",
+      "flags": {
+        "visible": true,
+        "archived": false,
+        "deleted": false
+      }
+    },
+    {
+      "id": "interim-guide",
+      "title": "Interim Guide",
+      "description": "Interim (INTERAM) guide walkthrough.",
+      "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v2/INTERAM-GUIDE.mp4",
+      "flags": {
+        "visible": true,
+        "archived": false,
+        "deleted": false
+      }
+    },
+    {
+      "id": "nafri-roznamcha-guide",
+      "title": "Nafri + Roznamcha Guide",
+      "description": "Nafri and Roznamcha guide walkthrough.",
+      "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v2/NAFRI-ROZNAMCHA-GUIDE.mp4",
+      "flags": {
+        "visible": true,
+        "archived": false,
+        "deleted": false
+      }
+    },
+    {
+      "id": "sips-forms-guide",
+      "title": "SIPS Forms Guide",
+      "description": "SIPS forms guide walkthrough.",
+      "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v2/SIPS-FORMS-GUIDE.mp4",
+      "flags": {
+        "visible": true,
+        "archived": false,
+        "deleted": false
+      }
+    },
+    {
+      "id": "unlocking",
+      "title": "Unlocking",
+      "description": "Unlocking guide walkthrough.",
+      "url": "https://github.com/fyp6188/FIR/releases/download/tutorials-v2/UNLOCKING.mp4",
       "flags": {
         "visible": true,
         "archived": false,
